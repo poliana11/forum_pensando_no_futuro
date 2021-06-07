@@ -31,7 +31,7 @@
     'prefix_indexes' => true,
   ),
   //'url' => 'http://localhost/flarum/public',
-  'url' => 'https://git.heroku.com/forum-pensando-no-futuro.git',
+  'url' => 'https://forum-pensando-no-futuro.herokuapp.com/public',
   'paths' => 
   array (
     'api' => 'api',

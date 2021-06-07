@@ -30,8 +30,8 @@
     'engine' => 'InnoDB',
     'prefix_indexes' => true,
   ),
-  //'url' => 'http://localhost/flarum/public',
-  'url' => 'https://forum-pensando-no-futuro.herokuapp.com/public',
+  'url' => 'http://localhost/flarum/public',
+  //'url' => 'https://forum-pensando-no-futuro.herokuapp.com/public',
   'paths' => 
   array (
     'api' => 'api',

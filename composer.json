@@ -37,10 +37,6 @@
             "email": "askvortsov@flarum.org"
         }
     ],
-    //"post-install-cmd": [
-      //      "php artisan clear-compiled",
-       //     "chmod -R 777 public/"
-    //],
     "support": {
         "issues": "https://github.com/flarum/core/issues",
         "source": "https://github.com/flarum/flarum",

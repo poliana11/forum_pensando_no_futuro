@@ -18,11 +18,11 @@
 
     //Conexão remota
     'driver' => 'mysql',
-    'host' => 'sql10.freemysqlhosting.net',
+    'host' => 'remotemysql.com',
     'port' => 3306,
-    'database' => 'sql10417496',
-    'username' => 'sql10417496',
-    'password' => 'TsJmqPId8k',
+    'database' => 'WfFEnVdGly',
+    'username' => 'WfFEnVdGly',
+    'password' => 'm7FEMVBpGN',
     'charset' => 'utf8mb4',
     'collation' => 'utf8mb4_unicode_ci',
     'prefix' => '',
